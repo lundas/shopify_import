@@ -1,0 +1,14 @@
+{
+  "name": "shopify_import",
+  "version": "1.0.0",
+  "description": "Imports orders from SquareSpace eCommerce to Shopify Store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Lund",
+  "license": "ISC",
+  "dependencies": {
+    "papaparse": "^5.4.1"
+  }
+}
